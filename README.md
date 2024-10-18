@@ -30,8 +30,16 @@ Click Reset to start a new game session.
 <img width="959" alt="paper game" src="https://github.com/user-attachments/assets/52bf4c71-ce03-4cd6-af4a-48fe24b02501">
 
 
+
+
+
 🤝 Contributions
 Feel free to fork this project and submit pull requests. All contributions are welcome!
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
 
 
